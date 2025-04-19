@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6b73zpiEKXI_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Kitchen Tips Game</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Kitchen_Tips_Game_ORG">
+    <organization identifier="Kitchen_Tips_Game_ORG">
+      <title>Kitchen Tips Game</title>
+      <item identifier="portopholio_project1_SCO" isvisible="true" identifierref="__6b73zpiEKXI_course_id_RES">
+        <title>Kitchen Tips Game</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6b73zpiEKXI_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5tYjcGlpC1R_P_455_341_958_538_DX4096_DY4096.swf" />
+      <file href="mobile/5tYjcGlpC1R_P_455_341_958_538_DX4096_DY4096_CX958_CY539.png" />
+      <file href="story_content/6ZKmps1W1uC_DX144_DY144.swf" />
+      <file href="mobile/6ZKmps1W1uC_DX144_DY144_CX107_CY82.png" />
+      <file href="story_content/6KtAqCSn3VD_DX2320_DY2320.swf" />
+      <file href="mobile/6KtAqCSn3VD_DX2320_DY2320_CX451_CY1004.png" />
+      <file href="story_content/Shape5Xqq9uQ9aPS.swf" />
+      <file href="story_content/5dDIXNk9lCo_DX86_DY86.swf" />
+      <file href="mobile/5dDIXNk9lCo_DX86_DY86_CX64_CY64.png" />
+      <file href="story_content/6JP9zUCismf_P_0_0_1618_910_DX3238_DY3238.swf" />
+      <file href="mobile/6JP9zUCismf_P_0_0_1618_910_DX3238_DY3238_CX1618_CY910.png" />
+      <file href="story_content/5hi8VnbQOmU_44100_56_0.mp3" />
+      <file href="story_content/Shape6J8LNWDs9Lm.swf" />
+      <file href="mobile/5dDIXNk9lCo_DX86_DY86_CX60_CY60.png" />
+      <file href="story_content/5YlTtfap3Uy_P_0_0_1501_1638_DX140_DY140.swf" />
+      <file href="mobile/5YlTtfap3Uy_P_0_0_1501_1638_DX140_DY140_CX76_CY83.png" />
+      <file href="story_content/5tldOtkfNG6_44100_56_0.mp3" />
+      <file href="story_content/Shape6pjVXAYKGQ8.swf" />
+      <file href="story_content/Shape64oVOEzl76U.swf" />
+      <file href="story_content/Shape6TX4pmEVDPm.swf" />
+      <file href="story_content/Shape5wqj99wn1aO.swf" />
+      <file href="story_content/69FSoU5t2rU_DX214_DY214.swf" />
+      <file href="mobile/69FSoU5t2rU_DX214_DY214_CX160_CY143.png" />
+      <file href="story_content/5ltyKxKtkJX_62kaHqdRx2X.swf" />
+      <file href="story_content/5ltyKxKtkJX_62kaHqdRx2X.png" />
+      <file href="story_content/5kknuysAXTg_P_170_91_638_364_DX1944_DY1944.swf" />
+      <file href="mobile/5kknuysAXTg_P_170_91_638_364_DX1944_DY1944_CX638_CY365.png" />
+      <file href="story_content/6eONI6ic22c_DX2432_DY2432.swf" />
+      <file href="mobile/6eONI6ic22c_DX2432_DY2432_CX1824_CY1080.png" />
+      <file href="mobile/6KtAqCSn3VD_DX2320_DY2320_CX780_CY1736.png" />
+      <file href="story_content/Shape5gIQ0APvnQ1.swf" />
+      <file href="story_content/Shape5xjYJve6giQ.swf" />
+      <file href="story_content/Shape62pCgibTH05.swf" />
+      <file href="story_content/Shape5dzdPT1xrh2.swf" />
+      <file href="story_content/Shape64pFBx3Rxme.swf" />
+      <file href="story_content/Shape5sRFdvmdLAb.swf" />
+      <file href="story_content/Shape6A0PedZRw4z.swf" />
+      <file href="meta.xml" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5Xqq9uQ9aPS.png" />
+      <file href="mobile/Shape6J8LNWDs9Lm.png" />
+      <file href="mobile/Shape6pjVXAYKGQ8.png" />
+      <file href="mobile/Shape64oVOEzl76U.png" />
+      <file href="mobile/Shape6TX4pmEVDPm.png" />
+      <file href="mobile/Shape5wqj99wn1aO.png" />
+      <file href="mobile/Shape5gIQ0APvnQ1.png" />
+      <file href="mobile/Shape5xjYJve6giQ.png" />
+      <file href="mobile/Shape62pCgibTH05.png" />
+      <file href="mobile/Shape5dzdPT1xrh2.png" />
+      <file href="mobile/Shape64pFBx3Rxme.png" />
+      <file href="mobile/Shape5sRFdvmdLAb.png" />
+      <file href="mobile/Shape6A0PedZRw4z.png" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/slides/6FA3XSpo7qJ.swf" />
+      <file href="story_content/slides/6Etz7kgTyCo.swf" />
+      <file href="story_content/slides/5mjrsUVMNkn.swf" />
+      <file href="story_content/slides/5ltyKxKtkJX.swf" />
+      <file href="story_content/slides/5cTU67UmlJ8.swf" />
+      <file href="story_content/slides/6RXJdC8EsU1.swf" />
+      <file href="story_content/slides/65y7xRPec3V.swf" />
+      <file href="story_content/data.swf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cTU67UmlJ8.js" />
+      <file href="html5/data/js/5ltyKxKtkJX.js" />
+      <file href="html5/data/js/5mjrsUVMNkn.js" />
+      <file href="html5/data/js/65y7xRPec3V.js" />
+      <file href="html5/data/js/6Etz7kgTyCo.js" />
+      <file href="html5/data/js/6FA3XSpo7qJ.js" />
+      <file href="html5/data/js/6RXJdC8EsU1.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="story_flash.html" />
+      <file href="story_content/story.js" />
+      <file href="story_content/blank.html" />
+      <file href="index_lms.html" />
+      <file href="index_lms_flash.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
